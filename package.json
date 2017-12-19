@@ -1,0 +1,26 @@
+{
+  "name": "entro",
+  "version": "0.0.1",
+  "description": "Entro DATi Source",
+  "main": "package/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "fxy": "^0.1.71",
+    "dati": "^0.2",
+    "js-search": "^1.4.2",
+    "stemmer": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/entro.git"
+  },
+  "keywords": [],
+  "author": "colohr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colohr/entro/issues"
+  },
+  "homepage": "https://github.com/colohr/entro#readme"
+}
